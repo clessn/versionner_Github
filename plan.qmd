@@ -1,0 +1,48 @@
+## Capsule 1 : Concepts de base de GitHub et du versionnage
+
+- **Définition de Git et GitHub**
+  - Qu’est-ce qu’un système de contrôle de version ?
+  - Différence entre Git (outil) et GitHub (plateforme)
+- **Pourquoi utiliser Git/GitHub en sciences sociales ?**
+  - Traçabilité des modifications
+  - Collaboration et partage de ressources/données
+  - Reproductibilité des analyses
+- **Vocabulaire de base**
+  - Référentiel (repository)
+  - Commit (validation)
+  - Branche (branch)
+  - Fusion (merge)
+  - Pull request (demande de tirage)
+- **Fonctionnement général du versionnage**
+  - Historique des modifications
+  - Revenir à une version antérieure
+  - Suivi des contributions individuelles
+- **Présentation de l’interface GitHub**
+  - Création de compte
+  - Navigation dans un dépôt (README, fichiers, historique)
+- **Installation de Git**
+  - Installation sur Windows, Mac et Linux
+  - Introduction à GitHub Desktop (GUI) et au terminal (CLI)
+  - Avantages et limites de chaque approche
+
+---
+
+## Capsule 2 : Commandes de base et bonnes pratiques de collaboration
+
+- **Commandes Git essentielles pour collaborer**
+  - `git clone` : cloner un dépôt distant sur son ordinateur
+  - `git pull` : récupérer les dernières modifications du dépôt distant
+  - `git push` : envoyer ses modifications vers le dépôt distant
+- **Flux de travail collaboratif sur GitHub**
+  - Création de branches pour développer de nouvelles fonctionnalités ou corriger des bugs
+  - Pull requests : proposer, discuter et intégrer des modifications dans la branche principale
+  - Résolution de conflits lors des fusions
+- **Bonnes pratiques de collaboration**
+  - Toujours travailler sur des branches dédiées
+  - Écrire des messages de commit clairs et explicites
+  - Utiliser un fichier README et documenter le projet
+  - Revue de code : demander et donner des retours via les pull requests
+  - Protéger la branche principale (main/master) contre les modifications directes
+- **Choix entre interface graphique (GUI) et terminal (CLI)**
+  - Avantages de la GUI (GitHub Desktop) pour débuter
+  - Importance de connaître les commandes de base en terminal pour mieux comprendre le fonctionnement de Git
