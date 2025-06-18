@@ -1,5 +1,5 @@
 ---
-title: "Capsule 1 – Concepts de base de GitHub et du versionnage"
+title: "Capsule 1 – Concepts de base de Git, GitHub et du versionnage"
 authors: Hubert Cadieux et Arnaud Beaulé
 output-dir: _SharedFolder_capsules_cours/versionner_Github
 format:
@@ -61,14 +61,6 @@ Finalement, la reproductibilité. C'est un enjeu majeur en recherche aujourd'hui
 - **Branch (branche)**
 - **Merge (fusion)**
 - **Pull request (demande de fusion)**
-
----
-
-## Fonctionnement général du versionnage (1 min 30)
-
-- **Historique des modifications**
-- **Revenir à une version antérieure**
-- **Suivi des contributions individuelles**
 
 ---
 

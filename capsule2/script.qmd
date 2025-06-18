@@ -1,8 +1,27 @@
 ---
 title: "Capsule 2 – Commandes de base et bonnes pratiques de collaboration"
+authors: Hubert Cadieux et Arnaud Beaulé
 format:
   pdf: default
 ---
+
+## Introduction (30 sec)
+
+Bonjour tout le monde !
+
+Dans la première capsule, nous avons vu ce qu'étaient Git et GitHub, pourquoi ces outils sont utiles en sciences sociales, et nous avons appris le vocabulaire de base. Maintenant, il est temps de passer à la pratique !
+
+Dans cette deuxième capsule, nous allons voir concrètement comment collaborer avec Git et GitHub. Pour illustrer tout ça, nous allons suivre l'exemple d'Hubert et d'Arnaud, deux étudiants en sciences sociales qui travaillent ensemble sur un projet d'analyse sur [sujet facile à analyser avec données dispo dans R].
+
+À travers leur collaboration, vous allez apprendre les commandes essentielles, comprendre le flux de travail collaboratif, et découvrir les bonnes pratiques qui vous feront gagner du temps et éviter les problèmes.
+
+## Mise en situation 
+
+
+
+
+
+
 
 ## Commandes Git essentielles pour collaborer (2 min)
 
@@ -34,3 +53,9 @@ format:
 
 - **Avantages de la GUI (GitHub Desktop) pour débuter**
 - **Importance de connaître les commandes de base en terminal pour mieux comprendre le fonctionnement de Git**
+
+## Fonctionnement général du versionnage (1 min 30)
+
+- **Historique des modifications**
+- **Revenir à une version antérieure**
+- **Suivi des contributions individuelles**
