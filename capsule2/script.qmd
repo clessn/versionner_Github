@@ -11,16 +11,38 @@ Bonjour tout le monde !
 
 Dans la première capsule, nous avons vu ce qu'étaient Git et GitHub, pourquoi ces outils sont utiles en sciences sociales, et nous avons appris le vocabulaire de base. Maintenant, il est temps de passer à la pratique !
 
-Dans cette deuxième capsule, nous allons voir concrètement comment collaborer avec Git et GitHub. Pour illustrer tout ça, nous allons suivre l'exemple d'Hubert et d'Arnaud, deux étudiants en sciences sociales qui travaillent ensemble sur un projet d'analyse sur [sujet facile à analyser avec données dispo dans R].
+Dans cette deuxième capsule, nous allons voir concrètement comment collaborer avec Git et GitHub. Pour illustrer tout ça, nous allons suivre l'exemple d'Hubert et d'Arnaud, deux étudiants en sciences sociales qui travaillent ensemble sur un projet d'analyse sur le développement économique et social des pays.
 
 À travers leur collaboration, vous allez apprendre les commandes essentielles, comprendre le flux de travail collaboratif, et découvrir les bonnes pratiques qui vous feront gagner du temps et éviter les problèmes.
 
-## Mise en situation 
+::: {.callout-note}
+Pour cette capsule, on pourrait partager l'écran en changeant la couleur du header selon l'étudiant : une couleur pour Hubert, une autre pour Arnaud, avec une icône différente pour chacun. Ça rendrait clair quand on passe d'un étudiant à l'autre.
+:::
 
+## Démarrer un projet collaboratif avec Git et GitHub (2 min 15 sec)
 
+Alors, commençons par la première étape. Dans tout projet collaboratif avec Git et GitHub, quelqu'un doit d'abord créer le dépôt principal sur GitHub. C'est ce qu'on appelle "initialiser le projet".
 
+*(Note affichée au bas de l'écran : Rappel du vocabulaire vu dans la capsule 1)*
 
+**ÉCRAN D'HUBERT**
 
+Hubert prend l'initiative de créer le projet. Il se rend sur github.com et navigue vers l'organisation où il veut héberger leur projet collaboratif *(Est-ce qu'on crée une organisation FSS? Est-ce qu'on montre comment créer sa propre organisation? Est-ce qu'on fait l'exemple dans un repo personnel?)*.
+
+Voici les étapes qu'il suit :
+
+1. Il clique sur l'onglet **Repositories** dans l'organisation
+2. Puis sur le bouton vert **New repository**
+
+GitHub lui présente alors un formulaire à remplir. Les éléments essentiels à considérer :
+
+- **Nom du dépôt** : Hubert choisit un nom descriptif, en minuscules, sans accents ni espaces - par exemple "analyse-dev-pays-2025"
+- **Visibilité** : Il choisit entre "Public" (visible par tous) ou "Private" (accès restreint aux collaborateurs). Dans son cas, il choisit "Public" puisqu'il compte partager ses résultats avec la communauté scientifique.
+- **README** : Il coche la case pour créer automatiquement un fichier README - c'est la page d'accueil de son projet qui expliquera de quoi il s'agit, comment d'autres personnes peuvent collaborer sur ce projet, comment le reproduire, etc.
+
+Les autres options du formulaire (comme .gitignore, licence, etc.) ne sont pas nécessaires pour commencer. Ce sont des options plus avancées que vous pourrez explorer une fois que vous serez familiers avec Git et GitHub.
+
+Il clique maintenant sur `Create repository`, et c'est fait: le dépôt est maintenant créé. Il ne contient rien encore, mais il est prêt à être utilisé par Hubert et Arnaud pour commencer leur travail d'analyse.
 
 
 ## Commandes Git essentielles pour collaborer (2 min)
