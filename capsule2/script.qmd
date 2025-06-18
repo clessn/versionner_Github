@@ -1,0 +1,36 @@
+---
+title: "Capsule 2 – Commandes de base et bonnes pratiques de collaboration"
+format:
+  pdf: default
+---
+
+## Commandes Git essentielles pour collaborer (2 min)
+
+- **`git clone` : cloner un dépôt distant sur son ordinateur**
+- **`git pull` : récupérer les dernières modifications du dépôt distant**
+- **`git push` : envoyer ses modifications vers le dépôt distant**
+
+---
+
+## Flux de travail collaboratif sur GitHub (2 min 30)
+
+- **Création de branches pour développer de nouvelles fonctionnalités ou corriger des bugs**
+- **Pull requests : proposer, discuter et intégrer des modifications dans la branche principale**
+- **Résolution de conflits lors des fusions**
+
+---
+
+## Bonnes pratiques de collaboration (2 min 30)
+
+- **Toujours travailler sur des branches dédiées**
+- **Écrire des messages de commit clairs et explicites**
+- **Utiliser un fichier README et documenter le projet**
+- **Revue de code : demander et donner des retours via les pull requests**
+- **Protéger la branche principale (main/master) contre les modifications directes**
+
+---
+
+## Choix entre interface graphique (GUI) et terminal (CLI) (1 min)
+
+- **Avantages de la GUI (GitHub Desktop) pour débuter**
+- **Importance de connaître les commandes de base en terminal pour mieux comprendre le fonctionnement de Git**
