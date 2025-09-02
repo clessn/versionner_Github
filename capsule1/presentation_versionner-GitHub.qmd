@@ -3,11 +3,19 @@ title: "Concept de base de GitHub et du versionnage"
 subtitle: "Capsule narrée par Hubert Cadieux et Arnaud Beaulé"
 format: 
   revealjs:
-    theme: white
+    mermaid: 
+      theme: dark
+    theme: simple
+    transition: slide
+    transition-speed: fast
     slide-number: true
     chalkboard: true
     preview-links: auto
     css: styles.css
+title-slide-attributes: 
+  data-background-image: CAPP_2023_NB2.png
+  data-background-size: 150px
+  data-background-position: right bottom
 ---
 
 ## Plan de la formation {.smaller}
