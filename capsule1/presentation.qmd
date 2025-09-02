@@ -1,0 +1,74 @@
+---
+title: "Concept de base de GitHub et du versionnage"
+subtitle: "Capsule narrée par Hubert Cadieux et Arnaud Beaulé"
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    css: styles.css
+---
+
+## Plan de la formation {.smaller}
+
+- Définition de Git et GitHub
+- Pourquoi utiliser Git/GitHub en sciences sociales
+- Vocabulaire de base
+- Installation de Git
+- Avantages et limites
+- Interface GitHub
+
+## Définition de Git et GitHub
+
+- Système de contrôle de version
+- Importance de l'historique
+- Différence entre Git et GitHub
+  - Git -> le logiciel
+  - GitHub -> la plateforme web
+
+## Pourquoi les utiliser?
+
+- Pour sa traçabilité des modifications
+- Pour la collaboration et le partage
+- Pour sa reproductibilité
+
+## Vocabulaire de base
+
+- Dépôt (repository/repo)
+- Commit (validation/livraison)
+- Branche (branch)
+- Fusion (merge)
+- Demande de fusion (pull request)
+
+## Installation de Git
+
+- Windows
+- Mac
+- Linux
+- Introduction à GitHub Desktop et au Terminal (CLI)
+  - Desktop : préférence pour l'interface graphique
+  - Terminal : via la ligne de commande
+
+## Avantages et limites de chaque approche {.smaller}
+
+### Terminal (CLI)
+- **Avantages** : flexibilité totale, automatization possible
+- **Limites** : courbe d'apprentissage raide, connaissance des commandes
+
+### Desktop (GUI)
+- **Avantages** : interface intuitive, adaptée aux débutants
+- **Limites** : moins de contrôle, dépendance à l'interface
+
+## Interface GitHub
+
+### Création de compte
+- Inscription
+- Vérification
+
+### Navigation dans un dépôt (repo)
+- Page principale
+- Exploration des fichiers
+- Historique des modifications
+
+## Merci pour votre attention

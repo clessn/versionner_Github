@@ -1,0 +1,33 @@
+---
+title: "Commandes de base et bonnes pratiques de collaboration"
+subtitle: "Capsule narrée par Hubert Cadieux et Arnaud Beaulé"
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+---
+
+## Plan de la formation
+
+- Démarrer un projet collaboratif
+- Le cycle Git essential
+  - Git clone
+  - Add/commit/push
+  - Git pull
+- Conflit de fusion
+
+## Démarrer un projet collaboratif
+
+## Commandes de base / Git clone
+
+## Commandes de base / git add, commit & push
+
+## Commandes de base / git clone
+
+## Commandes de base / git pull
+
+## Régler un conflit de fusion
+
+## Merci de votre attention!
