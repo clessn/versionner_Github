@@ -1,5 +1,5 @@
 ---
-title: "Concept de base de GitHub et du versionnage"
+title: "Concepts de base de GitHub et du versionnage"
 subtitle: "Capsule narrée par Hubert Cadieux et Arnaud Beaulé"
 format: 
   revealjs:
@@ -29,54 +29,103 @@ title-slide-attributes:
 
 ## Définition de Git et GitHub
 
+::: {.fragment .fade-in}
+
+:::
+
+::: {.incremental}
 - Système de contrôle de version
 - Importance de l'historique
 - Différence entre Git et GitHub
   - Git -> le logiciel
   - GitHub -> la plateforme web
+![](git_github.png){fig.align="center" width="75%"}
+  
+::: 
+
+---
 
 ## Pourquoi les utiliser?
 
+::: {.incremental}
 - Pour sa traçabilité des modifications
 - Pour la collaboration et le partage
 - Pour sa reproductibilité
 
+::: 
+
+---
+
 ## Vocabulaire de base
 
+::: {.incremental}
 - Dépôt (repository/repo)
 - Commit (validation/livraison)
 - Branche (branch)
 - Fusion (merge)
 - Demande de fusion (pull request)
 
+:::
+
+:::{.fragment .fade-in}
+![](git cheatsheet.jpeg){fig-align="right" width="30%"}
+
+:::
+
+--- 
+
 ## Installation de Git
 
+::: {.incremental}
 - Windows
 - Mac
 - Linux
 - Introduction à GitHub Desktop et au Terminal (CLI)
   - Desktop : préférence pour l'interface graphique
   - Terminal : via la ligne de commande
+  ![](githubdesktop.png){fig-align="left" width="40%"}
+  ![](terminal git.png){fig-align="right" width="37.5%"}
+  
+:::
+
+---
 
 ## Avantages et limites de chaque approche {.smaller}
 
 ### Terminal (CLI)
+::: {.incremental}
 - **Avantages** : flexibilité totale, automatization possible
 - **Limites** : courbe d'apprentissage raide, connaissance des commandes
 
+:::
+
 ### Desktop (GUI)
+::: {.incremental}
 - **Avantages** : interface intuitive, adaptée aux débutants
 - **Limites** : moins de contrôle, dépendance à l'interface
+
+:::
+
+---
 
 ## Interface GitHub
 
 ### Création de compte
+::: {.incremental}
 - Inscription
 - Vérification
 
+:::
+
 ### Navigation dans un dépôt (repo)
+
+::: {.incremental}
 - Page principale
 - Exploration des fichiers
 - Historique des modifications
+
+:::
+
+---
 
 ## Merci pour votre attention
